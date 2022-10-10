@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianL01&layout=compact)](https://github.com/ChristianL01/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ChristianL01.Christianl01)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ChristianL01.ChristianL01)
 
 
 <!--
